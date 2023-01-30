@@ -1,15 +1,15 @@
-import { useState } from "react";
-import reactLogo from "./assets/react.svg";
+import { Route, Routes } from "react-router-dom";
+import PaginaPrincipal from "./pages/paginaPrincipal";
+
 
 function App() {
 
   return (
-    <div className="flex justify-center items-center w-screen h-screen ">
-      <div className="">
-        <h1 className="text-3xl font-bold underline">Hello world!</h1>
-      </div>
-      
-    </div>
+    <main>
+      <Routes>
+        <Route element={<PaginaPrincipal />} path="/" />
+      </Routes>
+    </main>
   );
 }
 
