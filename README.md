@@ -19,5 +19,5 @@ React, TailwindCSS, TypesCript
 Insira um gif ou um link de alguma demonstração
 
 <p align="center">
-<img width="600" height="400" src="src/assets/demon1.gif">
+<img width="1000" height="500" src="src/assets/demon1.gif">
 </p>
