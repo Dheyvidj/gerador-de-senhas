@@ -5,7 +5,7 @@ Aplicativo feito em React/ts que gera senhas de maneira aleatória e personaliza
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 ## Stack utilizada
-React, TailwindCSS, TypesCript
+React, TailwindCSS, TypeScript
 
 
 
