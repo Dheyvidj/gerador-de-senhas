@@ -11,7 +11,7 @@ React, TailwindCSS, TypesCript
 
 ## Autores
 
-- [@octokatherine](https://www.github.com/dheyvid-lima)
+- [@dheyvid-lima](https://www.github.com/Dheyvidj)
 
 
 ## Demonstração
