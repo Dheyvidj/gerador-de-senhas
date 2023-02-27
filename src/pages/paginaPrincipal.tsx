@@ -65,7 +65,7 @@ const PaginaPrincipal = () => {
     }, [maiusculas, simbolos, numeros, size, minusculas])
 
     return (
-        <section className="bg-[url(https://docs.google.com/uc?id=1ITCz8ne44PYqLLJkBp9_aYRHKZq2_jvX)] bg-cover bg-center h-screen">
+        <section className="bg-[url(https://myarquives.s3.sa-east-1.amazonaws.com/rm222batch3-mind-03.jpg)] bg-cover bg-center h-screen">
             <section className="p-7 lg:w-[60%] m-auto">
                 <h1 className="font-bold w-full text-lg mt-8 lg:mt-28 text-center uppercase lg:text-3xl text-[#00CEF9]">Gerador de senhas seguras</h1>
                 <section className="flex mt-10 flex-col lg:flex-row gap-6 lg:justify-center lg:items-center">
